@@ -1,5 +1,12 @@
 # Hero Helper
-#### Video Demo:  <URL HERE>
+
+### Using in VScode
+1. Setup a Python environment
+2. In Python environment install Flask: $ python -m pip install flask
+3. Download the CS50 Library: $ pip3 install cs50
+4. To start: $ flask run
+
+
 #### Description:
 This project is what I would describe as very niche and mostly something that I personally wanted to create
 for myself ever since I started to learn how to code. I would describe it as specifically tailored for Dota 2 players
